@@ -1,1 +1,4 @@
 rssagg
+.env
+gocommands.txt
+vendor/
